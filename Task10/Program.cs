@@ -8,5 +8,5 @@ if (n < 1000 && n > 100)
 }
 else 
 {
-    Console.WriteLine("Three-digit number!");
+    Console.WriteLine("Enter three-digit number!");
 }

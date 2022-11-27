@@ -20,6 +20,7 @@ else
         {
             a = a * 10;
             i = i * 10;
+            
         }
         Console.Write("Third digit is: ");
         Console.Write(n / a % 10);
